@@ -14,11 +14,11 @@ The modes are:
     3) both red
 
  ATTiny pins used:
-  
-                       +====+
-     rearlight (PB5) 1 |*   | 8 Fn common (Vcc)
-     headlight (PB3) 2 |    | 7 frnt rd mrkr (PB2)
-  frnt wh mrkr (PB4) 3 |    | 6 rear wh mrkr (PB1)
-                 Gnd 4 |    | 5 rear rd mrkr (PB0)
-                       +====+
+         
+                             +====+
+           rearlight (PB5) 1 |*   | 8 Fn common (Vcc)
+           headlight (PB3) 2 |    | 7 frnt rd mrkr (PB2)
+        frnt wh mrkr (PB4) 3 |    | 6 rear wh mrkr (PB1)
+                       Gnd 4 |    | 5 rear rd mrkr (PB0)
+                             +====+
   
