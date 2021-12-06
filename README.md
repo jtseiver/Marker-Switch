@@ -1,5 +1,4 @@
 # Marker-Switch
-MARKER LIGHT SWITCH
 2021 Terry Seiver
  
 Written for ATTiny85, although I would expect an ATTiny84 could also be used and would allow for far more I/O pins. 
