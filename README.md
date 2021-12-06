@@ -13,7 +13,8 @@ The modes are:
     2) directional - both markers 
     3) both red
 
- ATTiny pins used:
+
+ATTiny pins used:
          
                              +====+
            rearlight (PB5) 1 |*   | 8 Fn common (Vcc)
@@ -22,3 +23,4 @@ The modes are:
                        Gnd 4 |    | 5 rear rd mrkr (PB0)
                              +====+
   
+Note: Headlight and Rearlight require diodes between decoder and ATTiny. I utilised SMD equivalent of 1K4006, although 1k4001 or similar would also work.  
